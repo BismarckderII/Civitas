@@ -10,7 +10,7 @@ We, the members of this community, establish this Constitution to simulate a fun
 
  Article I – Citizenship
 
-1. All approved members hold the role of <@&1403353533583200326> .
+1. All approved members hold the role of Citizen .
 2. Citizens have the right to:
 
    * Vote in elections.
